@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Olio viikko9</string>
+    <string-array name="Profiilikuva">
+        <item>Norsu</item>
+        <item>Possu</item>
+        <item>Lammas</item>
+    </string-array>
+
+</resources>
